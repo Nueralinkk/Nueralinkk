@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Purohit
 - 👀 I’m interested in app development ...
-- 🌱 I’m currently learning .java and SQl..
+- 🌱 Tech stack C,C++,Java and SQl..
 - 📫 How to reach me @ankit_purohit...
 
 <!---
